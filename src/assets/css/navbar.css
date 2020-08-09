@@ -1,0 +1,28 @@
+.login{
+    border-radius: 40px;
+    width: 15%;
+    background-image: linear-gradient(to right, #FF512F 0%, #DD2476 51%);
+    border: none;
+    margin-left: 5%;
+    box-shadow: 16px gray;
+}
+.text{
+    font-weight: bold;
+}
+.bottom{
+    margin-left: 12%;
+    margin-bottom: 5%; 
+    margin-right: 10%; 
+    margin-top: 2%;
+    border:0.5px solid gray;
+    border-radius: 6px;
+    padding-bottom: 1%;
+}
+
+.nav{
+    box-shadow: 1px 1px 1px lightgray;
+}
+.nav1{
+    margin-left:50%;
+    font-size: 0.8rem;
+}
